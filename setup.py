@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='patchel_wrapper',
+    name='patchelf_wrapper',
     version='0.1',
     packages=find_packages(),
     description='Python wrapper for patchelf',
